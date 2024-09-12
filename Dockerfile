@@ -1,4 +1,4 @@
-FROM tomcat:9.0.59-jre8
+FROM tomcat:9.0.94-jre8
 # Dummy text to test 
 # testing Github webhook is working
 # automation
